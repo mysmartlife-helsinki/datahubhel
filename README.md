@@ -4,4 +4,5 @@
 
 The repositories related to living lab and workshop activities are published under [Vekotinverstas](https://www.github.com/vekotinverstas)
 
-> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731297.
+![EU Logo](https://github.com/mysmartlife-helsinki/common-images/blob/master/logo-eu.png) | This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731297.
+----|------------
